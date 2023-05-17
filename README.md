@@ -10,7 +10,7 @@ JuicyLA was created with React, NodeJS, and Firebase. Our aim is to create a pag
 1. Clone this repository and switch into the new directory: 
 
 ```
-git clone https://github.com/ryandc-yeo/juicyla
+git clone https://github.com/jeounggene/juicyla
 cd juicyla
 ```
 
